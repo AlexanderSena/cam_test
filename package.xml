@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>cam_test</name>
+  <version>0.0.1</version>
+  <description>Serves to test gazebo_ros camera output to rviz</description>
+
+ 
+  <maintainer email="asena@umich.edu">Alexander Sena</maintainer>
+
+  <license>MIT</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>gazebo_msgs</depend>
+  <depend>geometry_msgs</depend>
+
+
+</package>
